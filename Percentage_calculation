@@ -1,5 +1,6 @@
 //This function will calculate the percantage of all five subject
-void percantage(int a,int b,int c,int d,int e)
+void percantage(int sum)
 {
-
+int per;
+per=(sum/500)*100;
 }
