@@ -1,0 +1,5 @@
+//This function will calculate the percantage of all five subject
+void percantage(int a,int b,int c,int d,int e)
+{
+
+}
