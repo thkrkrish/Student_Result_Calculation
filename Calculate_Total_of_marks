@@ -1,5 +1,6 @@
 //Function to calculate the Total marks in all subject p.
-int marks(int a,int a,int a,int a,int a)
+int marks(int a,int b,int c,int d,int e)
 {
 
+return (a+b+c+d+e);
 }
