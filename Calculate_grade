@@ -1,6 +1,17 @@
 //This function will calculate the grade of all subjects
 void grade(int a,int b,int c,int d,int e)
 {
-
+if(a>90||b>90||c>90||d>90||e>90)
+{
+printf("Grade A");
+}
+if(a>80||b>80||c>80||d>80||e>80)
+{
+printf("Grade B");
+}
+if(a>70||b>70||c>70||d>70||e>70)
+{
+printf("Grade B");
+}
 
 }
