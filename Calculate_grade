@@ -1,0 +1,6 @@
+//This function will calculate the grade of all subjects
+void grade(int a,int b,int c,int d,int e)
+{
+
+
+}
